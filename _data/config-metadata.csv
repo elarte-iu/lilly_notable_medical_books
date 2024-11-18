@@ -1,12 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+author,Author,
 date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
+language,Language
+related_works,Related Works
+iucat_link,IUCAT Link
+call_number,Call Number
 source,Source
 identifier,Source Identifier,,
 type,Type,
