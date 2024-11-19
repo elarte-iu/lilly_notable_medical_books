@@ -4,4 +4,4 @@ date,true,true
 author,true,true
 description,true,true
 subject,true,true
-location,true,false
+place_of_publication,true,false
