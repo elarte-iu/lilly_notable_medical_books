@@ -20,3 +20,6 @@ Hours are subject to change; make sure to check <a href="https://elarte-iu.githu
 
 
 {% include feature/button.html text="Account Creation" link="https://libraries.indiana.edu/lilly-library-request-system" color="success" %}
+
+
+{% include feature/image.html objectid="nmb_0074c" width="75" caption="van Leeuwenhoek, <i>Arcana Naturae Detecta</i> foldout" %}
