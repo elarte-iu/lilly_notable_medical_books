@@ -6,10 +6,10 @@ permalink: /visit-the-lilly.html
 
 ## Planning Your Visit
 
-Monday - Thursday,9:30 am - 5:30 pm
-Friday,9:30 am - 5 pm
-Saturday,10 am - 4 pm
-Sunday,Closed
+<p>Monday - Thursday: 9:30 am - 5:30 pm<br>
+Friday: 9:30 am - 5 pm<br>
+Saturday: 10 am - 4 pm<br>
+Sunday: Closed</p>
 
 ## The Lilly Library Request System
 
