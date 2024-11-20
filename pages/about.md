@@ -14,14 +14,14 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The *Notable Medical Books Repository* is intended to be an engaging way to showcase the 130 books from J.K. Lilly Jr.'s collection, and to allow curious browsers of all backgrounds easier access to information regarding these titles, and encouraging them to check them out in person. I am a Curatorial Assistant at the Lilly Library, where this collection is housed. The Curator of Dermatology, General Medicine, and Science, Erin Chiparo, has given me permission to use this collection for my project and to upload representations of the entire collection to this site after the course concludes. Having put a lot of effort into reassembling this collection physically, I would love to help it receive greater appreciation by the public. I think creating a digital repository like this can bring attention to the books in a fun and effective way, and it might also be a valuable experiment for the Lilly if they decide they want other collections or exhibitions put online in such a format in the future.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The item description in this repository has been lifted from the book *Notable Medical Books From the Lilly Library* edited by S.O. Waife, Elizabeth McCain, Ruth Weber, and Charles E. Hammond, and prepared by William R. LeFanu, Emeritus Librarian of the Royal College of Surgeons of London, England. Published in 1976, it is currently out of print, which is a shame—the remarkable amount of care and research put into each entry they wrote on the subject of the books in the collection provides great insight into each author's contributions and the times in which they lived. On their own motivations on undertaking this former project, S.O. Waife had this to say:
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+> <p>This volume, then, is only a partial record of special treasures in the Lilly Library at Indiana University. It does not aim to be a full survey of medical literature, still less a history of medicine. It samples great discoveries as recorded by those who made them. The history of medicine is preserved in the written word, but carry the mark of their authors' character and personality. Therefore, an attempt has been made to include here a brief account of each author's life and his other work and to provide a historical framework for the contribution he made to medical knowledge. […]</p>
+> <p>Notable Medical Books is a tribute to the scholarship and generosity of J.K. Lilly, Jr., who was personally responsible for collecting works of primary significance for the story of medicine and who presented his acquisitions to Indiana University to attract others—as he had been attracted—to study and appreciation of the past" (Waife et al. 9).</p>
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
 
 ## Roadmap
 
