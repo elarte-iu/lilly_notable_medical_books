@@ -8,7 +8,7 @@ permalink: /visit-the-lilly.html
 
 The normal hours of operation of the Lilly Library are as follows:
 
-<p>Monday - Thursday: 9:30 am - 5:30 pm<br>
+<p style="text-align: center;">Monday - Thursday: 9:30 am - 5:30 pm<br>
 Friday: 9:30 am - 5 pm<br>
 Saturday: 10 am - 4 pm<br>
 Sunday: Closed</p>
