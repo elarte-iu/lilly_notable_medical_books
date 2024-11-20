@@ -1,6 +1,6 @@
 color_class,color
-primary,
-secondary,
+primary,$red-700
+secondary,$red-900
 success,
 info,
 warning,
