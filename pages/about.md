@@ -22,7 +22,13 @@ The item description in this repository has been lifted from the book *Notable M
 > <p>Notable Medical Books is a tribute to the scholarship and generosity of J.K. Lilly, Jr., who was personally responsible for collecting works of primary significance for the story of medicine and who presented his acquisitions to Indiana University to attract others—as he had been attracted—to study and appreciation of the past" (Waife et al. 9).</p>
 
 
-
 ## Roadmap
+
+Within the following months, these changes and updates are projected to take place on this webpage:
+
+* Further original research conducted on each title; refinement of included information from *Notable Medical Books*.
+* The creation of buttons allowing patrons to request to see a book directly from its page (pending Library staff agreement).
+* Better integration with IUCAT; allow IUCAT search from browse or specialized browsing page.
+
 
 ## Special Thanks
