@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://libraries.indiana.edu/sites/default/files/styles/rvt_card/public/media/image/lillyexterior1.elliepursley.8.3.24.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Roadmap;Special Thanks" %}
 
 ## About the Collection
 
@@ -23,5 +23,6 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Roadmap
+
+## Special Thanks
