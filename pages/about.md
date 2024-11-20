@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://libraries.indiana.edu/sites/default/files/styles/rvt_card/public/media/image/lillyexterior1.elliepursley.8.3.24.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Roadmap;Special Thanks" %}
+{% include feature/nav-menu.html sections="About the Collection;Roadmap;Special Thanks;Works Cited" %}
 
 ## About the Collection
 
@@ -32,3 +32,13 @@ Within the following months, these changes and updates are projected to take pla
 
 
 ## Special Thanks
+
+<p>A huge thank you to Prof. John Walsh and Gyuri Kang, for their patience, availability, and excellent instruction.</p>
+
+<p>Many thanks to Erin Chiparo for permission to partially "digitize" the Notable Medical Books collection, and for her support and enthusiasm for the project.</p>
+
+<p>The depth of information provided in each entry would not have been possible without S.O. Waife et al.'s excellent scholarship and research epitomized in their 1976 publication.</p>
+
+## Works Cited
+
+Le Fanu, W. R. (1976). *Notable medical books from the Lilly Library, Indiana University* (S. O. Waife, E. McCain, R. Weber, & C. E. Hammond, Eds.). Lilly Research Laboratories. 
