@@ -21,7 +21,7 @@ The most reliable way to ensure you're able to see books of interest from this c
 
 For a streamlined account creation process for the Lilly's request system, follow the instructions provided by the resource below:
 
-{% include feature/button.html text="Account Creation" link="https://libraries.indiana.edu/lilly-library-request-system" color="primary" %}
+{% include feature/button.html text="Account Creation" link="https://libraries.indiana.edu/lilly-library-request-system" color="primary" align="center" %}
 
 
 {% include feature/image.html objectid="nmb_0074c" width="75" caption="van Leeuwenhoek, <i>Arcana Naturae Detecta</i> foldout" %}
