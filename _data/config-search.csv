@@ -5,3 +5,4 @@ author,true,true
 description,true,true
 subject,true,true
 place_of_publication,true,false
+call_number,true,false
