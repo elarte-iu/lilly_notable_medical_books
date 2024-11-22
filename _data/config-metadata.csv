@@ -6,9 +6,9 @@ description,Description,,
 subject,Subjects,true,
 location,Location,,
 language,Language,,
-related_works,Related Works,,
+related_works,Related Works,,true
 iucat_link,IUCAT Link,,true
-call_number,Call Number,,true
+call_number,Call Number,,
 source,Source,,
 identifier,Source Identifier,,
 type,Type,,
