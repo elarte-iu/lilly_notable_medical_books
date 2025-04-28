@@ -29,9 +29,8 @@ The item description in this repository has been lifted from the book *Notable M
 
 Within the following months, these changes and updates are projected to take place on this webpage:
 
-* Updates to the repository that contain transcriptions of the remainder of entries in *Notable Medical Books from the Lilly Library, Indiana University*, and corresponding photographs of the rest of the collection (or digitization of key illustrations and pages, if possible). 
-* Further original research conducted on each title; refinement of included information from *Notable Medical Books*.
-* The creation of buttons allowing patrons to request to see a book directly from its page (pending Library staff agreement).
+* Updates to each item's description; some typos may have occurred due to part of the transcription process relying on speech to text technologies. 
+* Most or all items will gain at least five unique pictures per book, as time allows.
 * Better integration with IUCAT; allow IUCAT search from browse or specialized browsing page.
 
 
