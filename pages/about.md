@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-The *Notable Medical Books Repository* is intended to be an engaging way to showcase the 130 books from J.K. Lilly Jr.'s collection, and to allow curious browsers of all backgrounds easier access to information regarding these titles, and encouraging them to check them out in person. Though only descriptions and images of 27 of the books have been uploaded to the site at present, all are projected to find their way onto this site by Q2 2025. 
+The *Notable Medical Books Repository* is intended to showcase all 130 books from J.K. Lilly Jr.'s collection, and to allow curious browsers of all backgrounds easier access to information regarding these titles, and encouraging them to check them out in person. 
 
 I am a Curatorial Assistant at the Lilly Library, where this collection is housed. The Curator of Dermatology, General Medicine, and Science, Erin Chiparo, has given me permission to use this collection for my project and to upload representations of the entire collection to this site after the course concludes. Having put a lot of effort into reassembling this collection physically, I would love to help it receive greater appreciation by the public. I think creating a digital repository like this can bring attention to the books in a fun and effective way, as well as being a valuable example for the Lilly of what other collections or snapshots of past exhibitions would look like hosted on CollectionBuilder sites.
 
@@ -29,9 +29,7 @@ The item description in this repository has been lifted from the book *Notable M
 
 Within the following months, these changes and updates are projected to take place on this webpage:
 
-* Updates to each item's description; some typos may have occurred due to part of the transcription process relying on speech to text technologies. 
 * Most or all items will gain at least five unique pictures per book, as time allows.
-* Better integration with IUCAT; allow IUCAT search from browse or specialized browsing page.
 
 
 ## Special Thanks
